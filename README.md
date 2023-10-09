@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifissahak&label=Profile%20views&color=0e75b6&style=flat" alt="arifissahak" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muhammedarif" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedarif?logo=twitter&style=for-the-badge" alt="muhammedarif" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Muhamme58006268" target="blank"><img src="https://img.shields.io/twitter/follow/muhammedarif?logo=twitter&style=for-the-badge" alt="muhammedarif" /></a> </p>
 
 - 🔭 **I'm actively engaged in developing multiple projects within the MERN stack to enhance my expertise and gain practical knowledge.**
 
