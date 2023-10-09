@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 **I'm eager to join forces with fellow developers on open-source initiatives, with a keen interest in gaining insights and knowledge from their experiences.**
+- 👯 **I'm eager to join forces with fellow developers on open-source initiatives, with a keen interest in gaining insights and knowledge   from their experiences.**
 
 - 💬 Ask me about **M E R N**
 
